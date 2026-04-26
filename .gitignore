@@ -189,3 +189,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data files
+saber11_raw.json
+
+# Virtual environment
+ml-project-env/
