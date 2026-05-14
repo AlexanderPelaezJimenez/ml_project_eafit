@@ -13,4 +13,26 @@ scikit-learn==1.5.2
 tqdm==4.66.5
 typer==0.12.5
 requests==2.32.3
+
+# Data processing
+polars==1.40.1
+
+# Models
+lightgbm==4.6.0
+xgboost==3.2.0
+catboost==1.2.10
+
+# Hyperparameter tuning
+optuna==4.8.0
+
+# Interpretability
+shap==0.51.0
+
+# API serving
+fastapi==0.136.1
+uvicorn==0.46.0
+
+# Serialization
+joblib==1.5.3
+
 -e .
